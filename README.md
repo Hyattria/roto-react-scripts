@@ -1,5 +1,5 @@
 # roto-react-scripts
-@roto/create-roto-app scripts based on CRA",
+@roto/create-roto-app scripts based on CRA
 
 ## start
 
